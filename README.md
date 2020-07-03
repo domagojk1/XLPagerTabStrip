@@ -3,11 +3,7 @@
 <p align="left">
 <a href="https://travis-ci.org/xmartlabs/XLPagerTabStrip"><img src="https://travis-ci.org/xmartlabs/XLPagerTabStrip.svg?branch=master" alt="Build status" /></a>
 <img src="https://img.shields.io/badge/platform-iOS-blue.svg?style=flat" alt="Platform iOS" />
-<<<<<<< HEAD
-<a href="https://developer.apple.com/swift"><img src="https://img.shields.io/badge/swift4-compatible-4BC51D.svg?style=flat" alt="Swift 4 compatible" /></a>
-=======
 <a href="https://developer.apple.com/swift"><img src="https://img.shields.io/badge/swift5-compatible-4BC51D.svg?style=flat" alt="Swift 5 compatible" /></a>
->>>>>>> upstream/master
 <a href="https://github.com/Carthage/Carthage"><img src="https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat" alt="Carthage compatible" /></a>
 <a href="https://cocoapods.org/pods/XLPagerTabStrip"><img src="https://img.shields.io/cocoapods/v/XLPagerTabStrip.svg" alt="CocoaPods compatible" /></a>
 <a href="https://raw.githubusercontent.com/xmartlabs/XLPagerTabStrip/master/LICENSE"><img src="http://img.shields.io/badge/license-MIT-blue.svg?style=flat" alt="License: MIT" />
@@ -313,13 +309,7 @@ Follow these 3 steps to run Example project: Clone XLPagerTabStrip repository, o
 
 To install XLPagerTabStrip, simply add the following line to your Podfile:
 
-```ruby
-<<<<<<< HEAD
-pod 'XLPagerTabStrip', '~> 8.1'
-=======
 pod 'XLPagerTabStrip', '~> 9.0'
->>>>>>> upstream/master
-```
 
 ### Carthage
 
@@ -327,13 +317,7 @@ pod 'XLPagerTabStrip', '~> 9.0'
 
 To install XLPagerTabStrip, simply add the following line to your Cartfile:
 
-```ogdl
-<<<<<<< HEAD
-github "xmartlabs/XLPagerTabStrip" ~> 8.1
-=======
 github "xmartlabs/XLPagerTabStrip" ~> 9.0
->>>>>>> upstream/master
-```
 
 ## FAQ
 
